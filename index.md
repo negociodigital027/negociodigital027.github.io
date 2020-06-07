@@ -7,7 +7,7 @@
 <html>
 
 <head>
-    <title>Landed by HTML5 UP</title>
+    <title>Negócio Digital 027</title>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
     <link rel="stylesheet" href="assets/css/main.css" />
@@ -19,7 +19,7 @@
 
         <!-- Header -->
         <header id="header">
-            <h1 id="logo"><a href="index.html">Landed</a></h1>
+            <h1 id="logo"><a href="index.html">NEGÓCIO DIGITAL 027</a></h1>
             <nav id="nav">
                 <ul>
                     <li><a href="index.html">Home</a></li>
