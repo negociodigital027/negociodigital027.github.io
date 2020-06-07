@@ -75,10 +75,7 @@
                         </div>
                         <div class="col-4 col-12-medium">
                             <p>O swing – a vida sexual liberal praticada por casais – é um movimento que cresce em todo mundo, inclusive no Brasil (tanto que é bastante provável que você more não muito distante de um destes clubes). E isso por uma razão muito simples: permite a expressão sexual de seus participantes, mantendo – e, o que é melhor, reforçando – as relações amorosas de um casal.
-
-Este livro narra o curioso, difícil, muitas vezes engraçado, mas sem dúvida recompensador caminho de um casal neste novo mundo, em que a sexualidade é expressa sem pudores, e a vida social dos casais envolve altas doses de sensualidade.
-
-Acompanhe a autora nesta pequena jornada e descubra com ela como pessoas como você podem ter uma vida de fantasias realizadas, e como encontrar em seu marido ou em sua esposa a cumplicidade perfeita.</p>
+Este livro narra o curioso, difícil, muitas vezes engraçado, mas sem dúvida recompensador caminho de um casal neste novo mundo, em que a sexualidade é expressa sem pudores, e a vida social dos casais envolve altas doses de sensualidade.</p>
                         </div>
                     </div>
                 </div>
