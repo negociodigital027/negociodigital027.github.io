@@ -70,7 +70,7 @@
                                 <p>eBook Kindle</p>
                             </header>
                         </div>
-                        <div class="col-4 col-12-medium">
+                        <div class="col-4 col-12-medium" align="center">
                             <a target="_blank"  href="https://www.amazon.com.br/gp/product/B07GGF46LW/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07GGF46LW&linkCode=as2&tag=negociodig033-20&linkId=fa1b93848d927f41090999b3824c5036"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=BR&ASIN=B07GGF46LW&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=negociodig033-20" ></a><img src="//ir-br.amazon-adsystem.com/e/ir?t=negociodig033-20&l=am2&o=33&a=B07GGF46LW" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
                         </div>
                         <div class="col-4 col-12-medium">
