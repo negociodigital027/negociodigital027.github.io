@@ -71,8 +71,8 @@
                             </header>
                         </div>
                         <div class="col-4 col-12-medium">
-                            <p>Feugiat accumsan lorem eu ac lorem amet sed accumsan donec. Blandit orci porttitor semper. Arcu phasellus tortor enim mi nisi praesent dolor adipiscing. Integer mi sed nascetur cep aliquet augue varius tempus lobortis porttitor
-                                accumsan consequat adipiscing lorem dolor.</p>
+                            <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=BR&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=negociodig033-20&marketplace=amazon&region=BR&placement=B07GGF46LW&asins=B07GGF46LW&linkId=8c6ae74424011c42f493454ae3dfea31&show_border=false&link_opens_in_new_window=true&price_color=333333&title_color=0066c0&bg_color=ffffff">
+    </iframe>
                         </div>
                         <div class="col-4 col-12-medium">
                             <p>Morbi enim nascetur et placerat lorem sed iaculis neque ante adipiscing adipiscing metus massa. Blandit orci porttitor semper. Arcu phasellus tortor enim mi mi nisi praesent adipiscing. Integer mi sed nascetur cep aliquet augue
