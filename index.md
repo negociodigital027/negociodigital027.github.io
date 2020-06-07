@@ -67,7 +67,7 @@
                         <div class="col-4 col-12-medium">
                             <header>
                                 <h2>A vida feliz de um casal no swing, ou por que (e como) você deveria adotar uma vida liberal</h2>
-                                <p>Nascetur eu nibh vestibulum amet gravida nascetur praesent</p>
+                                <p>eBook Kindle</p>
                             </header>
                         </div>
                         <div class="col-4 col-12-medium">
